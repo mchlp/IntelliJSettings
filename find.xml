@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'workspace-intellij'" />
-    <option name="defaultScopeName" value="Project 'workspace-intellij'" />
+    <option name="customScope" value="Directory '[TetrisGameAI] - /home/mpu/programming/intellij-eclipse/TetrisGameAI/src/frontend'" />
+    <option name="defaultScopeName" value="Directory '[TetrisGameAI] - /home/mpu/programming/intellij-eclipse/TetrisGameAI/src/frontend'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'workspace-intellij'" />
+    <option name="SEARCH_SCOPE" value="Directory '[TetrisGameAI] - /home/mpu/programming/intellij-eclipse/TetrisGameAI/src/frontend'" />
   </component>
 </application>
